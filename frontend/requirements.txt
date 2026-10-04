@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+google-auth
+a2a-sdk
+pydantic
